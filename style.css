@@ -37,17 +37,23 @@ p{
     margin-right: 5px;
 }
 /*section bg image*/
+.section-1{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
 
 .section-2 {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
-.section-2{
-    background-image: url(images/dream-bg.png);
-    background-repeat: no-repeat;
 
-}
 
 
 
